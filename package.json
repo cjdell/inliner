@@ -65,5 +65,5 @@
     "tap-only": "0.0.5",
     "validate-commit-msg": "^2.5.0"
   },
-  "version": "1.12.1"
+  "version": "1.12.2-0"
 }
